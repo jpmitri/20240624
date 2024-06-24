@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          CI\CD With Rony Rizk
         </a>
       </header>
     </div>
